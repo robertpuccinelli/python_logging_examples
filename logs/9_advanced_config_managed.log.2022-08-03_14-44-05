@@ -1,0 +1,7 @@
+2022-08-03 14:44:05,880 - INFO - Beginning ADC reading [root]
+2022-08-03 14:44:05,880 - DEBUG - Raw ADC value: 0.2 [i_need_this_module.and_i_love_it]
+2022-08-03 14:44:05,880 - DEBUG - Raw ADC value: 1.8 [i_need_this_module.and_i_love_it]
+2022-08-03 14:44:05,880 - DEBUG - Raw ADC value: 2.0 [i_need_this_module.and_i_love_it]
+2022-08-03 14:44:05,880 - DEBUG - Raw ADC value: 3.1 [i_need_this_module.and_i_love_it]
+2022-08-03 14:44:05,880 - DEBUG - Raw ADC value: 1.1 [i_need_this_module.and_i_love_it]
+2022-08-03 14:44:05,880 - INFO - Average ADC value: 1.64 [i_need_this_module.and_i_love_it]
